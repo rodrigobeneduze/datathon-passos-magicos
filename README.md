@@ -1,4 +1,7 @@
 # Datathon - Análise de Impacto Educacional | ONG Passos Mágicos
+## Dashboard Analítico
+
+![Dashboard](dashboard.png)
 
 Este projeto foi desenvolvido como parte de um Datathon de Data Analytics com o objetivo de analisar o desenvolvimento educacional de estudantes atendidos pela ONG Passos Mágicos.
 
