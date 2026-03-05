@@ -1,5 +1,6 @@
 # Datathon - Análise de Impacto Educacional | ONG Passos Mágicos
 ## Dashboard Analítico
+Projeto de análise de impacto educacional utilizando dados da Pesquisa Extensiva de Desenvolvimento Educacional (PEDE 2024).
 
 ![Dashboard](dashboard.png)
 
