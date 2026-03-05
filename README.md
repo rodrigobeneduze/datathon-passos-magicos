@@ -3,6 +3,7 @@
 Este projeto foi desenvolvido como parte de um Datathon de Data Analytics com o objetivo de analisar o desenvolvimento educacional de estudantes atendidos pela ONG Passos Mágicos.
 
 A análise utiliza dados da **Pesquisa Extensiva de Desenvolvimento Educacional (PEDE 2024)** para identificar fatores associados ao desempenho acadêmico dos alunos.
+A análise foi conduzida utilizando técnicas de análise exploratória de dados (EDA) e estatísticas descritivas.
 
 ---
 
@@ -53,10 +54,11 @@ Os principais indicadores utilizados foram:
 
 # Principais insights
 
-- A maioria dos estudantes apresenta desempenho educacional intermediário a alto.
-- O engajamento nas atividades educacionais apresenta forte associação com o desempenho acadêmico.
-- Estudantes sem defasagem educacional apresentam resultados significativamente superiores.
-- Alunos de alto desempenho apresentam predominantemente altos níveis de engajamento educacional.
+- A maioria dos estudantes apresenta desempenho educacional intermediário a alto, sendo que aproximadamente 81% dos alunos estão classificados nas categorias de bom ou alto desempenho.
+-	O engajamento nas atividades educacionais apresenta forte associação com o desempenho acadêmico, com estudantes de alto engajamento apresentando média de INDE de 7,93, enquanto alunos de baixo engajamento apresentam média de 5,90, representando uma diferença de 2,03 pontos no índice.
+-	Estudantes sem defasagem educacional apresentam resultados significativamente superiores, com média de INDE de 7,77, em comparação com 6,51 entre alunos com defasagem severa.
+-	Alunos de alto desempenho apresentam predominantemente altos níveis de engajamento educacional, indicando forte relação entre participação nas atividades educacionais e resultados acadêmicos.
+
 
 ---
 
@@ -66,7 +68,7 @@ Os principais indicadores utilizados foram:
 datathon-passos-magicos
 │
 ├── dashboard
-│   └── dashboard_PEDE.xlsx
+│   └── datathon_dashboard_passos magicos.xlsx
 │
 ├── relatorio
 │   └── relatorio_analitico.pdf
